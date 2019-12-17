@@ -17,3 +17,5 @@
 [[redirects]]
   from = "/api/weather"
   to = "https://api.darksky.net/forecast/API_KEY_PLACEHOLDER/48.676111,10.154444?units=si"
+  status = 200
+  headers = { Access-Control-Allow-Origin = "*" }
