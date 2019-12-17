@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="weather-row"
+  style={
+    Object {
+      "opacity": 0,
+    }
+  }
+>
+  <i
+    className="wi undefined"
+  />
+  <span>
+    Rain chance
+  </span>
+  <div>
+    <span>
+      0
+    </span>
+    <span>
+      Hello
+    </span>
+  </div>
+</div>
+`;

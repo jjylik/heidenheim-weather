@@ -8,7 +8,8 @@
     "@testing-library/user-event": "^7.1.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "react-spring": "^8.0.27"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -16,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://api.darksky.net/forecast/5a6a5d16d6ab21b9587bb248bac93d3b/",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -30,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-test-renderer": "^16.12.0"
   }
 }

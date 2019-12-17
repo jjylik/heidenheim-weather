@@ -1,0 +1,117 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+Array [
+  <h1>
+    Commuting weather in Heidenheim
+  </h1>,
+  <i
+    className="wi wi-day-cloudy"
+  />,
+  <h2
+    style={
+      Object {
+        "opacity": 0,
+      }
+    }
+  >
+    Partially cloudy
+  </h2>,
+  <div
+    className="weather-item-container"
+  >
+    <div
+      className="weather-row"
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <i
+        className="wi wi-thermometer"
+      />
+      <span>
+        Temperature
+      </span>
+      <div>
+        <span>
+          0
+        </span>
+        <span>
+          °C
+        </span>
+      </div>
+    </div>
+    <div
+      className="weather-row"
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <i
+        className="wi wi-rain"
+      />
+      <span>
+        Chance of rain
+      </span>
+      <div>
+        <span>
+          0
+        </span>
+        <span>
+          %
+        </span>
+      </div>
+    </div>
+    <div
+      className="weather-row"
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <i
+        className="wi wi-strong-wind"
+      />
+      <span>
+        Wind speed
+      </span>
+      <div>
+        <span>
+          0
+        </span>
+        <span>
+          m/s from 
+        </span>
+        <span>
+          NW
+        </span>
+      </div>
+    </div>
+    <div
+      className="weather-row"
+      style={
+        Object {
+          "opacity": 0,
+        }
+      }
+    >
+      <i
+        className="wi wi-barometer"
+      />
+      <span>
+        UV index
+      </span>
+      <div>
+        <span>
+          0
+        </span>
+      </div>
+    </div>
+  </div>,
+]
+`;
